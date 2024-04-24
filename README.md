@@ -3,7 +3,7 @@
 ## Results
 
 LSTvsNDVI (location near madhyapradesh)
-![screenshot](LSTvsNDVI.png)
+![screenshot](Results/LSTvsNDVI.png)
 
 CORRELATION
 
