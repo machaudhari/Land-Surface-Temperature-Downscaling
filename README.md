@@ -3,8 +3,7 @@
 ## Results
 
 LSTvsNDVI (location near madhyapradesh)
-![screenshot](Land-Surface-Temperature-Downscaling/Results
-/LSTvsNDVi.png)
+![screenshot](Land-Surface-Temperature-Downscaling/Results/LSTvsNDVi.png)
 
 CORRELATION
 
