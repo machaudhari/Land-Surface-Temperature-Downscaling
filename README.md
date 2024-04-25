@@ -13,12 +13,11 @@ LSTvsNDVI (location near madhyapradesh)
 
 ![goodcorr](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/f69cc7f3-c102-4997-83d5-e016a8dbdf71)
 
-2) Meghalaya
+2) Meghalaya & TamilNadu
 
 ![meghcorr](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/19e7504c-3d25-4827-8e54-dc80741b2683)
 ![meghcorrplot](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/05e2ba48-615c-42d1-8a92-6dde51fd682a)
 
-3) Tamilnadu
 ![southcorr](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/62a955f8-ab76-4f9e-998e-7314cd04befe)
 ![southcorrplot](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/508d4f10-99ab-4a6f-908f-41da907af3d3)
 
