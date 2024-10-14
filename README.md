@@ -1,13 +1,13 @@
 # Land-Surface-Temperature-Downscaling
 
-## Results
+# Results
 
 LSTvsNDVI (location near madhyapradesh)
 
 ![download](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/f06a326e-6923-4a9d-b5d0-ac31191ba70d)
 
 
-#CORRELATION
+# CORRELATION
 
 1) Madhya Pradesh
 
@@ -21,7 +21,7 @@ LSTvsNDVI (location near madhyapradesh)
 ![southcorr](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/62a955f8-ab76-4f9e-998e-7314cd04befe)
 ![southcorrplot](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/508d4f10-99ab-4a6f-908f-41da907af3d3)
 
-#Results
+# Results
 ![ndvi](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/60b0ec95-9f43-4100-8eab-64c397465942)
 ![NDVI BNDVI NORMR (1)](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/65fd674b-796a-460f-bc9a-f6d13c7b3309)
 ![withoutndvi](https://github.com/machaudhari/Land-Surface-Temperature-Downscaling/assets/71964698/3b77ab4d-11d7-4b5f-92f7-8218b56ed37d)
